@@ -1,0 +1,3 @@
+C:/Users/can_b/Desktop/cppProjects/node/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/can_b/Desktop/cppProjects/node/cmake-build-debug/CMakeFiles/node.dir
+C:/Users/can_b/Desktop/cppProjects/node/cmake-build-debug/CMakeFiles/edit_cache.dir
